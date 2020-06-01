@@ -1,0 +1,2 @@
+# GameServer
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/caa5ac83f881412782d790466e4f11d2)](https://app.codacy.com/manual/Ashime/GameServer?utm_source=github.com&utm_medium=referral&utm_content=Ashime/GameServer&utm_campaign=Badge_Grade_Dashboard)
