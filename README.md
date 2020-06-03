@@ -108,7 +108,7 @@ This 3rd party library provides the ability to read and write with ini files.
 > <br><b>LINK:</b> <https://drive.google.com/open?id=1QV0VcxBSgxViPs7iNgzVv2JCfXXGK6q31b68nk8Hq_I>
 
 ### Server/Client Retail Packets
-> Google Drive (04/30/2020)
+> Google Drive (05/31/2020)
 > <br><b>LINK:</b> <https://docs.google.com/document/d/1aWppDFMMZv_U20-GiLLTR1doHBwypb-5OE3RJGdH1Gs/edit?usp=sharing>
 
 ## Files
